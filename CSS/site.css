@@ -1,6 +1,18 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #483b3b;
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    color: antiquewhite;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: 100vh;
+    /* margin: 0;
+    padding: 0; */
+}
+container {
+    display: flex;
+    float: left;
+    /* justify-content: center;
+    align-items: center;
+    height: 100vh; */
 }
