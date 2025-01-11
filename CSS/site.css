@@ -1,7 +1,7 @@
 body {
-    background-color: #483b3b;
+    background-color: #294956;
     font-family: Arial, sans-serif;
-    color: antiquewhite;
+    color: rgb(245, 188, 114);
     /* display: flex;
     justify-content: center;
     align-items: center; */
@@ -9,7 +9,7 @@ body {
     /* margin: 0;
     padding: 0; */
 }
-container {
+.container {
     display: flex;
     float: left;
     /* justify-content: center;
