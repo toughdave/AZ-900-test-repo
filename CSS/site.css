@@ -1,5 +1,5 @@
-body {
-    /* background-color: #acc2cb;
+/* body {
+     background-color: #acc2cb;
     font-family: Arial, sans-serif;
     color: rgb(20, 29, 41);
     display: flex; 
@@ -9,8 +9,8 @@ body {
     outline: 1px solid rgb(46, 48, 58);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); */
-}
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+} */
 .main1 {
     background-color: #acc2cb;
     font-family: Arial, sans-serif;
@@ -38,4 +38,11 @@ footer {
     text-align: center;
     margin-top: 60px;
     padding-bottom: 10px;
+}
+
+@media screen and (max-width: 1080px) {
+    .main1 {
+        width: 40%;
+    }
+    
 }
