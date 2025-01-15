@@ -33,7 +33,7 @@
                             <a class="nav-link" href="cart.html">My Cart</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Options</a>
+                            <a class="nav-link dropdown-toggle" id="op" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Options</a>
                             <div class="dropdown-menu">
                             <a class="dropdown-item" href="#">Action</a>
                             <a class="dropdown-item" href="#">Another action</a>
@@ -86,7 +86,7 @@
             </footer>
         </section>
     </div>
-    
+
     <?php 
         echo "Hello World!"; 
         echo "Hello creation!";
