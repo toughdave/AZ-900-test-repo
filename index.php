@@ -75,6 +75,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
+                        <p>After you have selected the products you want to buy, click on the cart link to view your cart</p>
                         <p>Click <a href="cart.php">here</a> to view your cart</p>
                     </div>
                 </div>
