@@ -93,6 +93,8 @@
         echo "Hello creation!";
         echo "Hello World!";
         echo "Hello universe!";
+        echo "Hello new world!";
+        echo "Hello new nation!";
     ?>
 
 </body>
