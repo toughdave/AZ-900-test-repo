@@ -27,10 +27,10 @@
                             <a class="nav-link" href="clothing.html">Clothing</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact-us.html">Contact Us</a>
+                            <a class="nav-link" href="contact-us.html">Contact</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="cart.html">My Cart</a>
+                            <a class="nav-link" href="cart.html">Cart</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="op" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Options</a>
@@ -76,7 +76,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p>After you have selected the products you want to buy, click on the cart link to view your cart</p>
-                        <p>Click <a href="cart.php">here</a> to view your cart</p>
+                        <p>Click <a href="cart.html">here</a> to view your cart</p>
                     </div>
                 </div>
             </div>
