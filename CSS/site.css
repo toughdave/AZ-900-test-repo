@@ -12,7 +12,7 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
 } */
 .main1 {
-    background-color: #91708d;
+    background-color: #a3b7ca;
     font-family: Arial, sans-serif;
     color: rgb(20, 29, 41);
     justify-content: center;
@@ -26,6 +26,7 @@
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    
     
     
 }
