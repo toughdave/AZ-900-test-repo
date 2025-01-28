@@ -1,0 +1,6 @@
+{
+    "phpserver.phpPath": "/opt/lampp/bin/php",
+    "phpserver.browser": "chrome",
+    "phpserver.port": 3000
+ }
+ 

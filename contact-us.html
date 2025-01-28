@@ -51,7 +51,10 @@
             
             <h4>Please, fill out our form. We would love to hear from you.</h4>
             
+    <div class="main1">
+        <section class="container">
             <form action="contact-us.php" method="post">
+                
                 <div>
                     <label class="col-form-label mt-4" for="inputDefault">Name</label>
                     <input type="text" class="form-control" placeholder="Name" id="inputDefault">
@@ -69,6 +72,45 @@
                 <button type="submit" class="btn btn-primary mt-4">Send</button>
                 </div>
             </form>
+            <div>
+                <p>Thank you for contacting us. We will get back to you as soon as possible.</p>
+            </div>
+        </section>
+                    
+
+                    
+
+            <form action="contact-us.php" method="post">
+                
+                <h4>Subscribe to our mailing list</h4>
+                <p>Would you like to subscribe to our mailing list?</p>
+                <p>By subscribing to our mailing list, you will receive updates on our products and services.</p>
+                <p>You can also unsubscribe from our mailing list at any time.</p>
+
+                <input type="radio" name="mailList" checked> Subscribe to our mailing list<br>
+                <input type="radio" name="mailList"> Do not subscribe to our mailing list<br>
+                <input type="radio" name="mailList"> Unsubscribe from our mailing list<br>
+        
+                <form action="cart.php" method="post">
+                    <div>
+                        <label class="col-form-label mt-4" for="inputDefault">Name</label>
+                        <input type="text" class="form-control" placeholder="Name" id="inputDefault">
+                    </div>
+                    <div>
+                        <label for="exampleInputEmail1" class="form-label">Email address</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                    </div>
+                    <div>
+                        <label for="exampleTextarea" class="form-label mt-4">Message</label>
+                        <textarea class="form-control" id="exampleTextarea" rows="4"></textarea>
+                    </div>
+        
+                    <div>
+                    <button type="submit" class="btn btn-primary mt-4">Send</button>
+                    </div>
+
+                </form>
             <footer>
                 <p>&copy; 2025 - All rights reserved</p>
             </footer>

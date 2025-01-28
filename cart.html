@@ -52,26 +52,33 @@
             </nav>
         </section>
 
-        <input type="radio" name="mailList" checked> Subscribe to our mailing list<br>
-        <input type="radio" name="mailList"> Do not subscribe to our mailing list<br>
-        <input type="radio" name="mailList"> Unsubscribe from our mailing list<br>
+        <form action="place-order.php" method="post">
+            <h3>Items in your cart</h3>
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+                <li>Item 4</li>
+                <li>Item 5</li>
+            </ul>
 
-        <form action="cart.php" method="post">
             <div>
-                <label class="col-form-label mt-4" for="inputDefault">Name</label>
-                <input type="text" class="form-control" placeholder="Name" id="inputDefault">
+                <label class="col-form-label mt-4" for="inputDefault">Credit Card Number</label>
+                <input type="text" class="form-control" placeholder="Credit Card Number" id="inputDefault">
             </div>
+
             <div>
-                <label for="exampleInputEmail1" class="form-label">Email address</label>
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                <label class="col-form-label mt-4" for="inputDefault">Expiration Date</label>
+                <input type="text" class="form-control" placeholder="Expiration Date" id="inputDefault">
             </div>
+
             <div>
-                <label for="exampleTextarea" class="form-label mt-4">Message</label>
-                <textarea class="form-control" id="exampleTextarea" rows="4"></textarea>
+                <label class="col-form-label mt-4" for="inputDefault">CVV</label>
+                <input type="text" class="form-control" placeholder="CVV" id="inputDefault">
             </div>
+
             <div>
-            <button type="submit" class="btn btn-primary mt-4">Send</button>
+                <button type="submit" class="btn btn-primary mt-4">Place Order</button>
             </div>
 
         </form>
