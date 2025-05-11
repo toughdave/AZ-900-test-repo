@@ -3,8 +3,6 @@
 
 ## First, lets test these links:
 
-## First, lets test these links:
-
 ![Sample image](/images_2/mara.png)
 
 [Link to Microsoft Training](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/2-what-is-markdown)
@@ -16,9 +14,8 @@
 1. Third item
 1. Fourth item
 
-
 - Item 1
-    - subitem
+  - Subitem Main
     - subitem
     - subitem
 - Item 2
