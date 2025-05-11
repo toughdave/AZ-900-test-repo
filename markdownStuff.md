@@ -18,9 +18,9 @@
 
 
 - Item 1
-    -subitem
-    -subitem
-    -subitem
+    - subitem
+    - subitem
+    - subitem
 - Item 2
 - Item 3
 - Item 4
