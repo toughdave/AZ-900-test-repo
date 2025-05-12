@@ -40,4 +40,11 @@ In order to quote some texts:
 ## Line Breaks!
 
 > Here is a <br /> line break!!
-> Here is a  line break!!
+
+## Next is Comments spanning multiple lines
+
+```markdown
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
