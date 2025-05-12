@@ -36,3 +36,7 @@ abc| xyz
 
 In order to quote some texts:
 > This is what you do!
+
+## Line Breaks!
+
+> Here is a <br /> line break!!
