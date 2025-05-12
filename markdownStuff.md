@@ -41,7 +41,7 @@ In order to quote some texts:
 
 > Here is a <br /> line break!!
 
-## Next is Comments spanning multiple lines
+## Next is Code block spanning multiple lines
 
 ```markdown
 var first = 1;
