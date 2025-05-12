@@ -54,3 +54,18 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+
+## Mentioning Users and Teams
+
+You use @username
+
+> Example: @toughdave
+I will be sent a notificcation message that someone mentioned/called me.
+
+
+## Track task list
+
+- [x] First task
+- [x] Second task
+- [ ] Third task
+- [ ] Fourth task
