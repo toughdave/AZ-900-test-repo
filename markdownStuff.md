@@ -21,3 +21,10 @@
 - Item 2
 - Item 3
 - Item 4
+
+## Building Tables
+
+First | Second
+--- | ---
+1 | 2
+32 | 23
