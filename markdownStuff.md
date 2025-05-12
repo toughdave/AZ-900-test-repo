@@ -31,3 +31,8 @@ First | Second
 1024 | 2048
 128 | 512
 abc| xyz
+
+## Quoted Text
+
+In order to quote some texts:
+> This is what you do!
